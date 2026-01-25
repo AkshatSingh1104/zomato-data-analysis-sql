@@ -71,6 +71,6 @@ This project can be useful for:
 
 3. Location-based strategy development
 
-SQL portfolio demonstration
+4. SQL portfolio demonstration
 
-Data analytics skill practice
+5. Data analytics skill practice
